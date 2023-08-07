@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+table {
+    margin: 50px auto;
+    border: 1px white;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 20px solid white;
+    padding: 50px;
+}
+
+.orange {
+    background: #FF6000;
+}
+
+.green {
+    background: #54B435;
+}
+
+.myDiv {
+    border: 5px inset #54B435;
+    background-color: #FF6000;
+}
